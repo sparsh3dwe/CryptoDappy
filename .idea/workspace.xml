@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04890549-7cd9-48b6-8393-0ae5f8dcf0f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/flow/list-user-dappies.script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flow/mint-dappy.tx.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hooks/use-user-dappies.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/use-user-dappies.hook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/providers/UserProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/providers/UserProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/providers/TxProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/providers/TxProvider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,8 @@
       <workItem from="1637473052275" duration="6753000" />
       <workItem from="1637561655123" duration="399000" />
       <workItem from="1637562722429" duration="4169000" />
-      <workItem from="1637566915037" duration="5374000" />
+      <workItem from="1637566915037" duration="6629000" />
+      <workItem from="1637580989782" duration="1666000" />
     </task>
     <servers />
   </component>
