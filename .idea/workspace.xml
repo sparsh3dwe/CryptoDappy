@@ -2,47 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04890549-7cd9-48b6-8393-0ae5f8dcf0f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CryptoDappy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/contracts/DappyContract.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/contracts/FUSD.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/contracts/FungibleToken.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/scripts/FamilyContainsTemplate.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/scripts/GetFUSDBalance.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/scripts/ListFamilies.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/scripts/ListFamilyTemplates.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/scripts/ListTemplates.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/scripts/ListUserDappies.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/DappyContract.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/babel.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/flow.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/src/DappyContract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/tests/src/FUSD.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/AddTemplateToFamily.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/BatchMintDappyFromFamily.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/CreateCollection.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/CreateFUSDMinter.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/CreateFUSDVault.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/CreateFamily.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/CreateTemplate.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/DeleteCollection.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/MintDappy.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cadence/transactions/MintFUSD.cdc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flow/check-collection.script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flow/create-collection.script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flow/create-fusd-vault.script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flow/delete-collection.script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/flow/get-fusd-balance.script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flow/list-user-dappies.script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flow/mint-dappy.tx.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hooks/use-collection.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/use-collection.hook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hooks/use-fusd.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/use-fusd.hook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/use-user-dappies.hook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/use-user-dappies.hook.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/providers/UserProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/providers/UserProvider.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +64,7 @@
       <workItem from="1637473052275" duration="6753000" />
       <workItem from="1637561655123" duration="399000" />
       <workItem from="1637562722429" duration="4169000" />
-      <workItem from="1637566915037" duration="3315000" />
+      <workItem from="1637566915037" duration="5374000" />
     </task>
     <servers />
   </component>
